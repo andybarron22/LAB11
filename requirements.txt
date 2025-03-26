@@ -3,7 +3,7 @@
   pandas
   scikit-learn
   pickle-mixin
-  tensorflow==2.10.0
+  tensorflow-cpu
   matplotlib 
   seaborn
   Streamlit
